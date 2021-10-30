@@ -1,10 +1,10 @@
 # TypeBeast
 A simple typing speed test Website based on html and js 
 
-#demo
+# Demo
 ![](./typebeast.PNG)
 
-[](play Now)
+[Play Now](https://naemazam.github.io/TypeBeast/)
 
 # Contribution 
 
