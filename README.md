@@ -8,5 +8,6 @@ A simple typing speed test Website based on html and js
 
 # Contribution 
 
-Yes !! You can add More Words To make it more Use full, Goto main.js file And Add your words and Make a Pull request. 
+Yes !! You can add More Words To make it more Use full, Goto **main.js**  file And Add your words and Make a Pull request. 
+
 ![](./word.PNG)
