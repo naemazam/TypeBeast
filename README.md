@@ -5,7 +5,7 @@ Want to know how to improve your typing speed? The first step to learn to type f
 # Demo
 ![](./typebeast.PNG)
 
-[Play Now](https://naemazam.github.io/TypeBeast/)
+[Word](https://naemazam.github.io/TypeBeast/) [Story](https://naemazam.github.io/TypeBeast/letter.html)
 
 # Contribution 
 
